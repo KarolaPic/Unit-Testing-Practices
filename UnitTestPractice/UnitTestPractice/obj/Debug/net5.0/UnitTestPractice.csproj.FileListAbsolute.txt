@@ -1,0 +1,16 @@
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.AssemblyInfoInputs.cache
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.AssemblyInfo.cs
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.csproj.CoreCompileInputs.cache
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.exe
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.deps.json
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.runtimeconfig.json
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.runtimeconfig.dev.json
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.dll
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\ref\UnitTestPractice.dll
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\bin\Debug\net5.0\UnitTestPractice.pdb
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.dll
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\ref\UnitTestPractice.dll
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.pdb
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.genruntimeconfig.cache
+D:\carol\Escritorio\SCIO PRACTICES\Unit Testing\UnitTestPractice\UnitTestPractice\obj\Debug\net5.0\UnitTestPractice.csproj.AssemblyReference.cache
