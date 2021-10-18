@@ -1,0 +1,16 @@
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.csproj.AssemblyReference.cache
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.AssemblyInfoInputs.cache
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.AssemblyInfo.cs
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.csproj.CoreCompileInputs.cache
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.exe
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.deps.json
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.runtimeconfig.json
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.runtimeconfig.dev.json
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.dll
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\ref\tdd.dll
+D:\proyectos c#\tdd\tdd\bin\Debug\net5.0\tdd.pdb
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.dll
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\ref\tdd.dll
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.pdb
+D:\proyectos c#\tdd\tdd\obj\Debug\net5.0\tdd.genruntimeconfig.cache
